@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name": "Danilo Filitto",
+            "email": "danilo.filitto@gmail.com",
+            "password": "123456",
+            "score":0,
+            "item1":false,
+            "item2":false,
+            "item3":false
+
+        },
+        {
+            "id":2,
+            "name": "AliceFilitto",
+            "email": "alice.filitto@gmail.com",
+            "password": "123456",
+            "score":0,
+            "item1":false,
+            "item2":false,
+            "item3":false
+
+        }
+    ]
+}
